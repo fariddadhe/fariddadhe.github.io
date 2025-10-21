@@ -3,7 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.saltanera.hablun",
-    "sha256_cert_fingerprints":
-    ["5B:54:98:6A:54:C2:85:D6:3A:BD:09:CD:18:48:E1:69:29:D9:90:60:95:0B:DA:F9:0B:D4:77:8D:C9:17:D9:7C"]
+    "sha256_cert_fingerprints": ["5B:54:98:6A:54:C2:85:D6:3A:BD:09:CD:18:48:E1:69:29:D9:90:60:95:0B:DA:F9:0B:D4:77:8D:C9:17:D9:7C"]
   }
 }]
